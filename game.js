@@ -19,7 +19,7 @@ var counter = 0;
 
 start.addEventListener('click',function(){
     for(let i=0;bounds.length -1;i++){
-    bounds[i].style.borderColor = "black";}
+    bounds[i].style.borderColor = "red";}
     
 });
 
